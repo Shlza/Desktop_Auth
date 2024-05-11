@@ -1,0 +1,13 @@
+C:\Users\Slava\Documents\Visual Studio 2012\WpfLesson1\WpfLesson1\bin\Debug\WpfLesson1.exe.config
+C:\Users\Slava\Documents\Visual Studio 2012\WpfLesson1\WpfLesson1\bin\Debug\WpfLesson1.exe
+C:\Users\Slava\Documents\Visual Studio 2012\WpfLesson1\WpfLesson1\bin\Debug\WpfLesson1.pdb
+C:\Users\Slava\Documents\Visual Studio 2012\WpfLesson1\WpfLesson1\obj\Debug\WpfLesson1.csprojResolveAssemblyReference.cache
+C:\Users\Slava\Documents\Visual Studio 2012\WpfLesson1\WpfLesson1\obj\Debug\MainWindow.baml
+C:\Users\Slava\Documents\Visual Studio 2012\WpfLesson1\WpfLesson1\obj\Debug\MainWindow.g.cs
+C:\Users\Slava\Documents\Visual Studio 2012\WpfLesson1\WpfLesson1\obj\Debug\App.g.cs
+C:\Users\Slava\Documents\Visual Studio 2012\WpfLesson1\WpfLesson1\obj\Debug\WpfLesson1_MarkupCompile.cache
+C:\Users\Slava\Documents\Visual Studio 2012\WpfLesson1\WpfLesson1\obj\Debug\WpfLesson1.g.resources
+C:\Users\Slava\Documents\Visual Studio 2012\WpfLesson1\WpfLesson1\obj\Debug\WpfLesson1.Properties.Resources.resources
+C:\Users\Slava\Documents\Visual Studio 2012\WpfLesson1\WpfLesson1\obj\Debug\WpfLesson1.csproj.GenerateResource.Cache
+C:\Users\Slava\Documents\Visual Studio 2012\WpfLesson1\WpfLesson1\obj\Debug\WpfLesson1.exe
+C:\Users\Slava\Documents\Visual Studio 2012\WpfLesson1\WpfLesson1\obj\Debug\WpfLesson1.pdb
